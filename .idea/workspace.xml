@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ca1834d-a3e0-45f9-98fe-49c1bf5925e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankAccount.java" afterDir="false" />
-    </list>
+    <list default="true" id="7ca1834d-a3e0-45f9-98fe-49c1bf5925e7" name="Changes" comment="Completed challenge before check solution" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,8 +64,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659636848060</updated>
-      <workItem from="1659636853430" duration="1683000" />
+      <workItem from="1659636853430" duration="2381000" />
     </task>
+    <task id="LOCAL-00001" summary="Completed challenge before check solution">
+      <created>1659638565451</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659638565451</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Completed challenge before check solution">
+      <created>1659639192910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659639192910</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed challenge before check solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed challenge before check solution" />
   </component>
 </project>
