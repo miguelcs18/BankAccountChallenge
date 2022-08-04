@@ -48,16 +48,19 @@ public class BankAccount {
         this.phoneNumber = phoneNumber;
     }
 
-    public void depositFunds( int accountNumber, int quantity){
-        balance = balance + quantity;
+    public void depositFunds(double quantity){
+        this.balance = this.balance + quantity;
+        System.out.println("Deposit of " + quantity + "made. Your balance = " + this.balance);
     }
 
-    public void withdrawFunds( int accountNumber, int quantity){
-        if(balance<quantity){
-            System.out.println("Can`t make a withdrawal insufficient funds");
+    public void withdrawFunds( double quantity){
+        if(this.balance - quantity < 0){
+            System.out.println("Can`t make a withdrawal insufficient funds. You only have " + this.balance + " to withdraw " +
+                    "");
         }
         else {
-            balance = balance - quantity;
+            this.balance = balance - quantity;
+            System.out.println("Withdrawal of " + quantity + "processed. Remaining balance = " + this.balance);
         }
     }
 }
