@@ -6,11 +6,6 @@ public class BankAccount {
     private String phoneNumber;
 
 
-    public static void main (String[] args){
-
-    }
-
-
     public String getAccountNumber() {
         return accountNumber;
     }
